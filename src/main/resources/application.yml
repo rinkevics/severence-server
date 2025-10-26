@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: severence-server
+server:
+  port: ${MY_PORT}
